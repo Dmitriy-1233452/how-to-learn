@@ -1,0 +1,6 @@
+.two-columns {
+  position: relative;
+  display: flex;
+  font-size: 24px;
+  font-weight: normal;
+}
